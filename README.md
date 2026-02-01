@@ -8,13 +8,7 @@ Alongside analytics, I have experience with creative tools like Photoshop, Figma
 
 I am an enthusiastic problem solver, a team player, and an aspiring Data Analyst passionate about turning data into actionable knowledge.
 
-
-
-<p align="left"> <img src=https://avatars.githubusercontent.com/u/191326928?s=400&u=8ee7ee7156b014525db37e3481067c0267a3a555&v=4&label=Profile views&color=0e75b6&style=flat" alt="AnimatrixData" /> </p>
-
-- 👨‍💻 All of my projects are available at **[https://om-nayak.vercel.app/](https://om-nayak.vercel.app/)**
-
-- 📄 Know about my experiences **[https://om-nayak.vercel.app/](https://om-nayak.vercel.app/)**
+- 📄 Know about my experiences and my projects at **[https://om-nayak.vercel.app/](https://om-nayak.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
