@@ -10,7 +10,7 @@ I am an enthusiastic problem solver, a team player, and an aspiring Data Analyst
 
 
 
-<p align="left"> <img src=my pic3&label=Profile views&color=0e75b6&style=flat" alt="AnimatrixData" /> </p>
+<p align="left"> <img src=&label=Profile views&color=0e75b6&style=flat" alt="AnimatrixData" /> </p>
 
 - 👨‍💻 All of my projects are available at **[https://om-nayak.vercel.app/](https://om-nayak.vercel.app/)**
 
